@@ -5,4 +5,4 @@ General decsription:
 2) BST.h contains the method headers for BST.c
 3) testBST.c contains several tests for intializing the tree, adding elements, and seeing if they were successfuly added.
 
-Makefile and gitgnore files are included. Run testBST by entering make and running the executable called BST
+Makefile and gitgnore files are included. Run testBST.c by entering make and running the executable called BST
